@@ -16,13 +16,19 @@
 |    8. | Strojové učení a umělá inteligence | Shlukování                         | [odkaz](08/lekce.ipynb) |
 |    9. | Strojové učení a umělá inteligence | Zpracování přirozeného jazyka      | [odkaz](09/lekce.ipynb) |
 |   10. | Strojové učení a umělá inteligence | Doporučování obsahu                | [odkaz](10/lekce.ipynb) |
-|   11. | Strojové učení a umělá inteligence |                                    |                         |
-|   11. | Strojové učení a umělá inteligence |                                    |                         |
+|   11. | Statistické metody                 | Úvod do A/B testování              | [odkaz](11/lekce.ipynb) |
+|   11. | Strojové učení a umělá inteligence | Použití ChatGPT v datové vědě      |                         |
 
 
-## Podmínky absolvování kurzu
+## Úkoly a kvízy
 
+* Úkol z bloku Statistické metody je [zde](domaci_ukoly/01_statistika/Zadani_ukol_statistika.pdf)
+* Úkol z bloku Strojové učení a umělá inteligence je [zde](domaci_ukoly/02_strojove_uceni/zadani.md)
 
+Níže jsou odkazy na formuláře v Google Forms.
+
+* Kvíz z 8. lekce je [zde](https://docs.google.com/forms/d/e/1FAIpQLSdf-PXt12znQwffeXqCbjOkeIlc7mzWNCqziB41wJn_7XNLJg/viewform?usp=sf_link)
+* Kvíz z 9. lekce je [zde](https://docs.google.com/forms/d/e/1FAIpQLSdiyKYIHObV3YhFAsrQVWHFb_umGrlUU_adgsmPmatLIqPtRQ/viewform?usp=sf_link)
 
 
 ## Další zdroje
